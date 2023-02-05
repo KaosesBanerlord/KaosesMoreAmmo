@@ -8,8 +8,8 @@
 		<ModuleId>$(MSBuildProjectName)</ModuleId>
 		<GameFolder>$(BANNERLORD_GAME_DIR)</GameFolder>
 		<GameVersion>1.0.3</GameVersion>
-		<IsStable>true</IsStable>
-		<IsBeta>false</IsBeta>
+		<IsStable>false</IsStable>
+		<IsBeta>true</IsBeta>
 		<!-- The directory .nuget packages are ouputed to if build .nuget package option is selected under build options in visual studio -->
 		<NugetsOutput>U:\Nuget.Local</NugetsOutput>
 		<ReferenceAssemblies>true</ReferenceAssemblies>

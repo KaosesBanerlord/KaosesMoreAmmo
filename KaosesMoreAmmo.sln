@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaosesMoreAmmo", "KaosesMoreAmmo\KaosesMoreAmmo.csproj", "{86C94B9D-17B8-464B-AB64-EB0636910FA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KaosesMoreAmmo", "KaosesMoreAmmo\KaosesMoreAmmo.csproj", "{86C94B9D-17B8-464B-AB64-EB0636910FA5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KaosesMoreAmmoCore", "..\KaosesMoreAmmoCore\KaosesMoreAmmoCore.csproj", "{30D287AC-CE33-49C4-A526-121CCE71C4CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KaosesMoreAmmoCore", "KaosesMoreAmmoCore\KaosesMoreAmmoCore.csproj", "{D3FD41CC-1EE7-4F34-B09D-70068776CA63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{86C94B9D-17B8-464B-AB64-EB0636910FA5}.Debug|x64.Build.0 = Debug|x64
 		{86C94B9D-17B8-464B-AB64-EB0636910FA5}.Release|x64.ActiveCfg = Release|x64
 		{86C94B9D-17B8-464B-AB64-EB0636910FA5}.Release|x64.Build.0 = Release|x64
-		{30D287AC-CE33-49C4-A526-121CCE71C4CD}.Debug|x64.ActiveCfg = Debug|x64
-		{30D287AC-CE33-49C4-A526-121CCE71C4CD}.Debug|x64.Build.0 = Debug|x64
-		{30D287AC-CE33-49C4-A526-121CCE71C4CD}.Release|x64.ActiveCfg = Release|x64
-		{30D287AC-CE33-49C4-A526-121CCE71C4CD}.Release|x64.Build.0 = Release|x64
+		{D3FD41CC-1EE7-4F34-B09D-70068776CA63}.Debug|x64.ActiveCfg = Debug|x64
+		{D3FD41CC-1EE7-4F34-B09D-70068776CA63}.Debug|x64.Build.0 = Debug|x64
+		{D3FD41CC-1EE7-4F34-B09D-70068776CA63}.Release|x64.ActiveCfg = Release|x64
+		{D3FD41CC-1EE7-4F34-B09D-70068776CA63}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
