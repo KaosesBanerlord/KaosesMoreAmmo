@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="English" />
+	</tags>
+	<strings>
+    <string id="KaosesProjectilesDisplayName" text="Kaoses Projectiles" />
+    <string id="KPM_AME" text="Arrows Multiplier Enabled" />
+    <string id="KPM_AMEH" text="Enables Arrows Multipliers" />
+    <string id="KPM_Arrows" text="Arrows" />
+    <string id="KPM_SSM" text="Stack Size Multiplier" />
+    <string id="KPM_SSMH" text="Multiply stack sizes by the multiplier [Native: 1.0(100%)]." />
+    <string id="KPM_PME" text="Price Multiplier Enabled" />
+    <string id="KPM_PMEH" text="Enables Item Price Multiplier" />
+    <string id="KPM_PM" text="Price Multiplier" />
+    <string id="KPM_PMH" text="Multiply price by the multiplier [Native: 1.0(100%)]." />
+    <string id="KPM_WME" text="Weight Multiplier Enabled" />
+    <string id="KPM_WMEH" text="Enables Weight Multiplier" />
+    <string id="KPM_WM" text="Weight Multiplier" />
+    <string id="KPM_WMH" text="Multiply item weight by the multiplier [Native: 1.0(100%)]." />
+    <string id="KPM_BME" text="Bolts Multiplier Enabled" />
+    <string id="KPM_BMEH" text="Enables Bolts Multipliers" />
+    <string id="KPM_Bolts" text="Bolts" />
+    <string id="KPM_TWME" text="Thrown Multipliers Enabled" />
+    <string id="KPM_TWMEH" text="Enables Thrown Multipliers" />
+    <string id="KPM_Thrown" text="Thrown" />
+    <string id="KPM_MTWFE" text="Thrown Mission stack Fix Enabled" />
+    <string id="KPM_MTWFEH" text="Enables a temp fix for thrown weapon stack sizes in missions." />
+    <string id="KPM_WorkAround" text="Work around" />
+    
+    <string id="KPM_BWME" text="Bullets Multipliers Enabled" />
+    <string id="KPM_BWMEH" text="Enables Bullets Multipliers" />
+    <string id="KPM_Bullets" text="Bullets" />
+  
+
+
+  </strings>
+</base>
